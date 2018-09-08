@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://jarss.github.io/examplesite3/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
